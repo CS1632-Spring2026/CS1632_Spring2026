@@ -21,13 +21,13 @@ Software Quality Assurance - Spring 2026
 
 **Class Time and Location:**
 
-  * Section 1270: Mon/Wed 9:30 AM - 10:45 AM @ 405 Information Sciences Building
-  * Section 1080: Mon/Wed 3:00 PM - 4:15 PM @ 6110 Sennott Square
+  * Section 1100: Tue/Thu 11:00 AM - 12:15 PM @ 6110 Sennott Square
+  * Section 1130: Tue/Thu 4:00 PM - 5:15 PM @ 208 Cathedral of Learning
 
 **Instructor's Office Hours:**
 
   * Chat on Microsoft Teams: Mon-Fri 9:00 AM - 6:00 PM
-  * Physical Office Hours: Mon 1:15 - 2:45 PM @ 5423 Sennott Square, Thu 2:30 PM - 4:00 PM @ IS 621, or by appointment
+  * Physical Office Hours: Mon 1:45 -3:45 PM, Thu 12:30 PM - 2:30 PM @ 5423 Sennott Square, or by appointment
 
 **Grading TA Information:**
 
